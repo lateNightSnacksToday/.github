@@ -1,6 +1,5 @@
-> What should we have for late-night snacks today?
-> 
-> 오늘 야식 뭐 먹지?
+#### late-night snacks today
 
-# lnst Develop
-> [lnst.kr](https://lnst.kr)
+# lnst
+> [lnst.kr website](https://lnst.kr)
+> [lnst members](https://lnst.kr/members)
